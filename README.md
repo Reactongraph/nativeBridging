@@ -1,7 +1,7 @@
 One of the biggest reason for the popularity of React Native is that we can create a bridge between the Native language and JavaScript code. Which means we can reuse all the reusable libraries created in iOS and Android world.
 
 ## Description
-this is an react native poc where we are showing react native bridging small code of sum written in java and the executing part is in react on the click of button we are showing sum in alert box 
+This is an React Native Bridging POC where we have bridged the code between React Native and Android via a small peice of code written in java for doing summation and executing that java code in a React Native function on click of a button, the resulting sum is then shown in an alert box. 
 
 <img src='./reactBriging.gif' alt='video' height='720' />
 
