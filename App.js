@@ -9,7 +9,7 @@ import {
 
 const App = () => {
   const sumOfValue = () => {
-    NativeModules.Sum.sumOfValue((error, sum) => {
+    NativeModules.Sum.sumOfValue((sum) => {
       if (sum) {
         alert(sum);
       }
